@@ -1,5 +1,6 @@
 //
 // Created by hexi on 19-9-18.
+//顺序查找
 //
 #include <iostream>
 using namespace std;
