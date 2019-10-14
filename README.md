@@ -1,5 +1,6 @@
 # C++ Practice
 ##![本人博客](https://blog.csdn.net/He3he3he/article/details/102248368)
+
 ##算法训练
 1. ![最大公约数和最小公倍数](https://github.com/Xke1718He/C-Practice/blob/master/1.LowestCommonMultiple.cpp)
 2. ![判断素数](https://github.com/Xke1718He/C-Practice/blob/master/2.isPrime.cpp)
