@@ -10,9 +10,9 @@
 6. ![交换变量](https://github.com/Xke1718He/C-Practice/blob/master/6.SwapNum.cpp)
 7. ![鸡兔同笼](https://github.com/Xke1718He/C-Practice/blob/master/7.Chicken2Rabbit.cpp)
 8. ![三整数排序](https://github.com/Xke1718He/C-Practice/blob/master/8.ThreeNumSort.cpp)
-9．![最长回文字符串]
-10. ![有序数组去重]
-11. ![年份]
-12. ![ｘ的平方根]
-13. ![接雨水]
-14. ![矩阵的转置]
+9．![最长回文字符串](https://github.com/Xke1718He/C-Practice/blob/master/9.LongestPalindrme.cpp)
+10. ![有序数组去重](https://github.com/Xke1718He/C-Practice/blob/master/10.removeDuplicates.cpp)
+11. ![年份](https://github.com/Xke1718He/C-Practice/blob/master/11.leapYear.cpp)
+12. ![ｘ的平方根](https://github.com/Xke1718He/C-Practice/blob/master/12.x_sqrt.cpp)
+13. ![接雨水](https://github.com/Xke1718He/C-Practice/blob/master/13.trap.cpp)
+14. ![矩阵的转置](https://github.com/Xke1718He/C-Practice/blob/master/14.MatrixTranspose.cpp)
