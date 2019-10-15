@@ -2,7 +2,7 @@
 ##![本人博客](https://blog.csdn.net/He3he3he/article/details/102248368)
 
 ##算法训练
-
+1. 河西
 1.　最大公约数和最小公倍数
 2.　判断素数
 3.　计算字符串的ASCII码
