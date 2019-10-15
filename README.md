@@ -16,3 +16,8 @@
 12. ![ｘ的平方根](https://github.com/Xke1718He/C-Practice/blob/master/12.x_sqrt.cpp)
 13. ![接雨水](https://github.com/Xke1718He/C-Practice/blob/master/13.trap.cpp)
 14. ![矩阵的转置](https://github.com/Xke1718He/C-Practice/blob/master/14.MatrixTranspose.cpp)
+##常用查找方法
+
+##常用排序方法
+
+##基本数据结构
